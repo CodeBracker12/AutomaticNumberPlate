@@ -1,0 +1,74 @@
+[
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "YX19838MU",
+        "time": "2023-11-02 16:52:35.468576",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "YX19838MU",
+        "time": "2023-11-02 16:52:35.468576",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR26DK8337",
+        "time": "2023-11-04 00:39:00.834566",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8755980251"
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR26DK8337",
+        "time": "2023-11-04 00:52:37.362818",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8755980251"
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR98C6409",
+        "time": "2023-11-04 10:40:19.633881",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR98C6409",
+        "time": "2023-11-04 10:46:05.344285",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR98C6409",
+        "time": "2023-11-04 10:46:07.922317",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR26DK8337",
+        "time": "2023-11-04 10:49:29.432660",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8755980251"
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR26DK8337",
+        "time": "2023-11-28 18:36:10.230196",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8755980251"
+    }
+]
